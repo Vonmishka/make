@@ -1,0 +1,2189 @@
+{
+    "server-response": [
+        {
+            "publicDashboard": "YES",
+            "period": "202001",
+            "organisationUnit": "Plmg8ikyfrK"
+        },
+        {
+            "publicIndicators": {
+                "indicatorPrograms": [
+                    {
+                        "indicatorProgramId": "1111",
+                        "indicatorProgramName": "HIV",
+                        "indicatorProgramIcon": "",
+                        "indicatorNationalKPI": [
+                            {
+                                "kpiName": "Client on Treatment",
+                                "kpiValue": "50468"
+                            },
+                            {
+                                "kpiName": "Health Facilities",
+                                "kpiValue": "960"
+                            },
+                            {
+                                "kpiName": "Total Tested Positive",
+                                "kpiValue": "50468"
+                            }
+                        ],
+                        "indicatorGroups": [
+                            {
+                                "indicatorGroupId": "1",
+                                "indicatorGroupShortName": "Prevention",
+                                "indicators": [
+                                    {
+                                        "_id": "1",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "643aef976e9027226faaa8f8",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "area",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": 57.14,
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "30",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bonthe District",
+                                                    "numeratorTotal": "90",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Falaba District",
+                                                    "numeratorTotal": "10",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Kenema District",
+                                                    "numeratorTotal": "50",
+                                                    "denominatorTotal": "95",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Kono District",
+                                                    "numeratorTotal": "70",
+                                                    "denominatorTotal": "55",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Koinadugu District",
+                                                    "numeratorTotal": "65",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Western Urban District",
+                                                    "numeratorTotal": "79",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Western Rural District",
+                                                    "numeratorTotal": "19",
+                                                    "denominatorTotal": "65",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Lagos District",
+                                                    "numeratorTotal": "76",
+                                                    "denominatorTotal": "90",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Ibadan District",
+                                                    "numeratorTotal": "14",
+                                                    "denominatorTotal": "22",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Ondo District",
+                                                    "numeratorTotal": "44",
+                                                    "denominatorTotal": "99",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Benin District",
+                                                    "numeratorTotal": "33",
+                                                    "denominatorTotal": "88",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Ogun District",
+                                                    "numeratorTotal": "88",
+                                                    "denominatorTotal": "75",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Kwara District",
+                                                    "numeratorTotal": "61",
+                                                    "denominatorTotal": "91",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Kogi District",
+                                                    "numeratorTotal": "81",
+                                                    "denominatorTotal": "95",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "_id": "2",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "643aef976e9027226fyyy8f8",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS / PEOPLE WHO CAN DEAD-LIFT 400KG",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": 57.14,
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "THe United arab District",
+                                                    "numeratorTotal": "2000000",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "_id": "3",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "643aef976e9027226fzzz8f8",
+                                            "indicatorName": "PEOPLE WHO CAN EAT SPAGHETTI WHILE DOING A HANDSTAND",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": 57.14,
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Ancient Rome District",
+                                                    "numeratorTotal": "20200003242303",
+                                                    "denominatorTotal": "351010939023",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "2019182012",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "30005",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "201209210412",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "indicatorGroupId": "2",
+                                "indicatorGroupShortName": "eMTCT",
+                                "indicators": [
+                                    {
+                                        "_id": "1",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "_id": "2",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "_id": "3",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "indicatorGroupId": "3",
+                                "indicatorGroupShortName": "Treatment",
+                                "indicators": [
+                                    {
+                                        "_id": "1223455",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "_id": "1223455",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "_id": "1223455",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "indicatorGroupId": "4",
+                                "indicatorGroupShortName": "M&E",
+                                "indicators": [
+                                    {
+                                        "_id": "1223455",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "_id": "1223455",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "_id": "1223455",
+                                        "indicatorDataContent": {
+                                            "indicatorId": "ObjectId('643aef976e9027226fccc8f8')",
+                                            "indicatorName": "NUMBER OF HIV TEST CONDUCTED / PEOPLE WHO KNOW THEIR STATUS",
+                                            "indicatorGroupId": "643aef976e9027226fccc8",
+                                            "indicatorGroupShortName": "Prevention",
+                                            "indicatorGroupDisplayName": "CARE AND TREATMENT SERVICES INDICATORS",
+                                            "indicatorProgramId": "643aef976e9027226fccc8f",
+                                            "indicatorProgramName": "HIV",
+                                            "indicatorDescription": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%)",
+                                            "numeratorName": "Number of deaths among neonates (0-28 days) in hospitals",
+                                            "denominatorName": "Number of neonatal (0-28 days) admissions",
+                                            "defaultChartType": "bar",
+                                            "publicDashboard": "YES",
+                                            "period": "202001",
+                                            "numeratorTotal": "20",
+                                            "denominatorTotal": "35",
+                                            "indicatorValueInPercentage": "57.14",
+                                            "thresholdAlert": "Hospital neonatal mortality rate (0-28 days) % of neonatal admissions (%) is above threshold value",
+                                            "indicatorSubValues": [
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "dar4XkzRmN0",
+                                                    "organisationUnitName": "Bo District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                },
+                                                {
+                                                    "organisationUnit": "Ru4Xku7yrr",
+                                                    "organisationUnitName": "Bombali District",
+                                                    "numeratorTotal": "20",
+                                                    "denominatorTotal": "35",
+                                                    "indicatorValueInPercentage": "57.14"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                  {
+                    "indicatorProgramId": "59333064-d04d-4556-b61f-0a9b1f585a02",
+                    "indicatorProgramName": "RMNCAH",
+                    "indicatorProgramIcon": "",
+                    "indicatorNationalKPI": [
+                      {
+                        "kpiName": "Maternal Mortality Rate",
+                        "kpiValue": "445"
+                      },
+                      {
+                        "kpiName": "Neonatal Mortality Rate",
+                        "kpiValue": "31"
+                      },
+                      {
+                        "kpiName": "Under 5 Mortality Rate",
+                        "kpiValue": "122"
+                      }
+                    ],
+                    "indicatorGroups": [
+                      {
+                        "indicatorGroupId": "b7c7b7f9-53d1-4d74-8739-1bb5b8c56fa6",
+                        "indicatorGroupShortName": "Maternal/Adolescent",
+                        "indicators": [
+                          {
+                            "_id": "6470e3044393d042b1df2256",
+                            "indicatorDataContent": {
+                              "indicatorId": "2ccaa267-a97a-433d-8cf1-2dda83cdcd2c",
+                              "indicatorName": "Antenatal 4th visit rate (ANC1) ",
+                              "indicatorGroupId": "b7c7b7f9-53d1-4d74-8739-1bb5b8c56fa6",
+                              "indicatorGroupShortName": "Maternal/Adolescent",
+                              "indicatorGroupDisplayName": "ADOLESCENT REPRODUCTIVE AND MATERNAL HEALTH INDICATORS",
+                              "indicatorProgramId": "59333064-d04d-4556-b61f-0a9b1f585a02",
+                              "indicatorProgramName": "RMNCAH",
+                              "indicatorDescription": "Antenatal 4th visit rate (ANC1) (%)",
+                              "numeratorName": "Number of pregnant women attended 4th ANC",
+                              "denominatorName": "Number of pregnant women attended 1st ANC",
+                              "defaultChartType": "bar",
+                              "publicDashboard": "YES",
+                              "period": "202303",
+                              "numeratorTotal": "18685",
+                              "denominatorTotal": "24838",
+                              "indicatorValueInPercentage": "75.2",
+                              "thresholdAlert": "tbd",
+                              "indicatorSubValues": [
+                                {
+                                  "organisationUnit": "yA18sXAwZJo",
+                                  "organisationUnitName": "Tonkolili District",
+                                  "numeratorTotal": "1562",
+                                  "denominatorTotal": "2392",
+                                  "indicatorValueInPercentage": "65.3"
+                                },
+                                {
+                                  "organisationUnit": "PMLlCzM0mWT",
+                                  "organisationUnitName": "Western Area Urban District",
+                                  "numeratorTotal": "1522",
+                                  "denominatorTotal": "2480",
+                                  "indicatorValueInPercentage": "61.4"
+                                },
+                                {
+                                  "organisationUnit": "Ba6McOxy6D2",
+                                  "organisationUnitName": "Kambia District",
+                                  "numeratorTotal": "1073",
+                                  "denominatorTotal": "1299",
+                                  "indicatorValueInPercentage": "82.6"
+                                },
+                                {
+                                  "organisationUnit": "zTHjIvPmPI0",
+                                  "organisationUnitName": "Bo District",
+                                  "numeratorTotal": "1781",
+                                  "denominatorTotal": "2187",
+                                  "indicatorValueInPercentage": "81.4"
+                                },
+                                {
+                                  "organisationUnit": "pWb43ue4nt8",
+                                  "organisationUnitName": "Falaba District",
+                                  "numeratorTotal": "355",
+                                  "denominatorTotal": "412",
+                                  "indicatorValueInPercentage": "86.2"
+                                },
+                                {
+                                  "organisationUnit": "x4tRoN2ue9w",
+                                  "organisationUnitName": "Karene District",
+                                  "numeratorTotal": "630",
+                                  "denominatorTotal": "978",
+                                  "indicatorValueInPercentage": "64.4"
+                                },
+                                {
+                                  "organisationUnit": "ucyuSTA19cP",
+                                  "organisationUnitName": "Bombali District",
+                                  "numeratorTotal": "851",
+                                  "denominatorTotal": "1235",
+                                  "indicatorValueInPercentage": "68.9"
+                                },
+                                {
+                                  "organisationUnit": "btW1NRETLww",
+                                  "organisationUnitName": "Moyamba District",
+                                  "numeratorTotal": "1158",
+                                  "denominatorTotal": "1455",
+                                  "indicatorValueInPercentage": "79.6"
+                                },
+                                {
+                                  "organisationUnit": "ywV0ByvR7xW",
+                                  "organisationUnitName": "Pujehun District",
+                                  "numeratorTotal": "1394",
+                                  "denominatorTotal": "1510",
+                                  "indicatorValueInPercentage": "92.3"
+                                },
+                                {
+                                  "organisationUnit": "knrO5gazmom",
+                                  "organisationUnitName": "Western Area Rural District",
+                                  "numeratorTotal": "1124",
+                                  "denominatorTotal": "2119",
+                                  "indicatorValueInPercentage": "53.0"
+                                },
+                                {
+                                  "organisationUnit": "P7LlNb9MosU",
+                                  "organisationUnitName": "Kono District",
+                                  "numeratorTotal": "1115",
+                                  "denominatorTotal": "1349",
+                                  "indicatorValueInPercentage": "82.7"
+                                },
+                                {
+                                  "organisationUnit": "oWaJJJLCWzI",
+                                  "organisationUnitName": "Kailahun District",
+                                  "numeratorTotal": "1482",
+                                  "denominatorTotal": "1828",
+                                  "indicatorValueInPercentage": "81.1"
+                                },
+                                {
+                                  "organisationUnit": "Y7YrGOsu9fp",
+                                  "organisationUnitName": "Koinadugu District",
+                                  "numeratorTotal": "634",
+                                  "denominatorTotal": "869",
+                                  "indicatorValueInPercentage": "72.9"
+                                },
+                                {
+                                  "organisationUnit": "iQgaTATK59f",
+                                  "organisationUnitName": "Bonthe District",
+                                  "numeratorTotal": "385",
+                                  "denominatorTotal": "565",
+                                  "indicatorValueInPercentage": "68.1"
+                                },
+                                {
+                                  "organisationUnit": "gheAIXur8EJ",
+                                  "organisationUnitName": "Kenema District",
+                                  "numeratorTotal": "1627",
+                                  "denominatorTotal": "2053",
+                                  "indicatorValueInPercentage": "79.2"
+                                },
+                                {
+                                  "organisationUnit": "RjOUVJDV1Dl",
+                                  "organisationUnitName": "Port Loko District",
+                                  "numeratorTotal": "1992",
+                                  "denominatorTotal": "2107",
+                                  "indicatorValueInPercentage": "94.5"
+                                }
+                              ]
+                            }
+                          }
+
+                        ]
+                      },
+                      {
+                        "indicatorGroupId": "110bc9bf-e4e9-434c-b6cc-4540239abbd3",
+                        "indicatorGroupShortName": "Child",
+                        "indicators": [
+                          {
+                            "_id": "6470e3398710045171a6c5c1",
+                            "indicatorDataContent": {
+                              "indicatorId": "eec0dad6-b3fe-4038-8daa-06baf8b14c92",
+                              "indicatorName": "Hospital child mortality (0-59 m) per admission rate",
+                              "indicatorGroupId": "110bc9bf-e4e9-434c-b6cc-4540239abbd3",
+                              "indicatorGroupShortName": "Child",
+                              "indicatorGroupDisplayName": "CHILD HEALTH INDICATORS",
+                              "indicatorProgramId": "59333064-d04d-4556-b61f-0a9b1f585a02",
+                              "indicatorProgramName": "RMNCAH",
+                              "indicatorDescription": "Hospital child mortality (0-59 m) per admission rate (%)",
+                              "numeratorName": "Number of deaths among children 0-59 months in health facilities.",
+                              "denominatorName": "Number of admissions among children 0-59 months",
+                              "defaultChartType": "line",
+                              "publicDashboard": "YES",
+                              "period": "202303",
+                              "numeratorTotal": "207",
+                              "denominatorTotal": "3703",
+                              "indicatorValueInPercentage": "5.6",
+                              "thresholdAlert": "tbd",
+                              "indicatorSubValues": [
+                                {
+                                  "organisationUnit": "yA18sXAwZJo",
+                                  "organisationUnitName": "Tonkolili District",
+                                  "numeratorTotal": "19",
+                                  "denominatorTotal": "399",
+                                  "indicatorValueInPercentage": "4.8"
+                                },
+                                {
+                                  "organisationUnit": "PMLlCzM0mWT",
+                                  "organisationUnitName": "Western Area Urban District",
+                                  "numeratorTotal": "128",
+                                  "denominatorTotal": "1467",
+                                  "indicatorValueInPercentage": "8.7"
+                                },
+                                {
+                                  "organisationUnit": "Ba6McOxy6D2",
+                                  "organisationUnitName": "Kambia District",
+                                  "numeratorTotal": "1",
+                                  "denominatorTotal": "105",
+                                  "indicatorValueInPercentage": "0.9"
+                                },
+                                {
+                                  "organisationUnit": "zTHjIvPmPI0",
+                                  "organisationUnitName": "Bo District",
+                                  "numeratorTotal": "20",
+                                  "denominatorTotal": "282",
+                                  "indicatorValueInPercentage": "7.1"
+                                },
+                                {
+                                  "organisationUnit": "pWb43ue4nt8",
+                                  "organisationUnitName": "Falaba District",
+                                  "numeratorTotal": "0",
+                                  "denominatorTotal": "0",
+                                  "indicatorValueInPercentage": "0.0"
+                                },
+                                {
+                                  "organisationUnit": "x4tRoN2ue9w",
+                                  "organisationUnitName": "Karene District",
+                                  "numeratorTotal": "6",
+                                  "denominatorTotal": "255",
+                                  "indicatorValueInPercentage": "2.4"
+                                },
+                                {
+                                  "organisationUnit": "ucyuSTA19cP",
+                                  "organisationUnitName": "Bombali District",
+                                  "numeratorTotal": "14",
+                                  "denominatorTotal": "182",
+                                  "indicatorValueInPercentage": "7.7"
+                                },
+                                {
+                                  "organisationUnit": "btW1NRETLww",
+                                  "organisationUnitName": "Moyamba District",
+                                  "numeratorTotal": "0",
+                                  "denominatorTotal": "0",
+                                  "indicatorValueInPercentage": "0"
+                                },
+                                {
+                                  "organisationUnit": "ywV0ByvR7xW",
+                                  "organisationUnitName": "Pujehun District",
+                                  "numeratorTotal": "0",
+                                  "denominatorTotal": "89",
+                                  "indicatorValueInPercentage": "0"
+                                },
+                                {
+                                  "organisationUnit": "knrO5gazmom",
+                                  "organisationUnitName": "Western Area Rural District",
+                                  "numeratorTotal": "0",
+                                  "denominatorTotal": "0",
+                                  "indicatorValueInPercentage": "0"
+                                },
+                                {
+                                  "organisationUnit": "P7LlNb9MosU",
+                                  "organisationUnitName": "Kono District",
+                                  "numeratorTotal": "8",
+                                  "denominatorTotal": "389",
+                                  "indicatorValueInPercentage": "2.0"
+                                },
+                                {
+                                  "organisationUnit": "oWaJJJLCWzI",
+                                  "organisationUnitName": "Kailahun District",
+                                  "numeratorTotal": "4",
+                                  "denominatorTotal": "100",
+                                  "indicatorValueInPercentage": "4.0"
+                                },
+                                {
+                                  "organisationUnit": "Y7YrGOsu9fp",
+                                  "organisationUnitName": "Koinadugu District",
+                                  "numeratorTotal": "2",
+                                  "denominatorTotal": "167",
+                                  "indicatorValueInPercentage": "72.9"
+                                },
+                                {
+                                  "organisationUnit": "iQgaTATK59f",
+                                  "organisationUnitName": "Bonthe District",
+                                  "numeratorTotal": "0",
+                                  "denominatorTotal": "0",
+                                  "indicatorValueInPercentage": "0"
+                                },
+                                {
+                                  "organisationUnit": "gheAIXur8EJ",
+                                  "organisationUnitName": "Kenema District",
+                                  "numeratorTotal": "2",
+                                  "denominatorTotal": "195",
+                                  "indicatorValueInPercentage": "1.0"
+                                },
+                                {
+                                  "organisationUnit": "RjOUVJDV1Dl",
+                                  "organisationUnitName": "Port Loko District",
+                                  "numeratorTotal": "3",
+                                  "denominatorTotal": "73",
+                                  "indicatorValueInPercentage": "0.4"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "indicatorGroupId": "81053b8d-25ec-4b3d-bf9d-c3113a253b47",
+                        "indicatorGroupShortName": "Newborn",
+                        "indicators": [
+                          {
+                            "_id": "6470e37c40415d62e2e3eecc",
+                            "indicatorDataContent": {
+                              "indicatorId": "47eccff4-56be-47d5-af86-5be17baba74c",
+                              "indicatorName": "Newborns breastfed within 1 hour of birth rate (%)",
+                              "indicatorGroupId": "81053b8d-25ec-4b3d-bf9d-c3113a253b47",
+                              "indicatorGroupShortName": "Newborn",
+                              "indicatorGroupDisplayName": "NEW BORN HEALTH INDICATORS",
+                              "indicatorProgramId": "59333064-d04d-4556-b61f-0a9b1f585a02",
+                              "indicatorProgramName": "RMNCAH",
+                              "indicatorDescription": "Newborns breastfed within 1 hour of birth rate (%)",
+                              "numeratorName": "Number of newborns delivered in health facilities breastfed within the first hour of birth ",
+                              "denominatorName": "Number of live births in health facilities",
+                              "defaultChartType": "bar",
+                              "publicDashboard": "YES",
+                              "period": "202303",
+                              "numeratorTotal": "17011",
+                              "denominatorTotal": "17704",
+                              "indicatorValueInPercentage": "96.0",
+                              "thresholdAlert": "tbd",
+                              "indicatorSubValues": [
+                                {
+                                  "organisationUnit": "yA18sXAwZJo",
+                                  "organisationUnitName": "Tonkolili District",
+                                  "numeratorTotal": "1290",
+                                  "denominatorTotal": "1290",
+                                  "indicatorValueInPercentage": "100.0"
+                                },
+                                {
+                                  "organisationUnit": "PMLlCzM0mWT",
+                                  "organisationUnitName": "Western Area Urban District",
+                                  "numeratorTotal": "1269",
+                                  "denominatorTotal": "1358",
+                                  "indicatorValueInPercentage": "93.4"
+                                },
+                                {
+                                  "organisationUnit": "Ba6McOxy6D2",
+                                  "organisationUnitName": "Kambia District",
+                                  "numeratorTotal": "900",
+                                  "denominatorTotal": "928",
+                                  "indicatorValueInPercentage": "96.9"
+                                },
+                                {
+                                  "organisationUnit": "zTHjIvPmPI0",
+                                  "organisationUnitName": "Bo District",
+                                  "numeratorTotal": "1465",
+                                  "denominatorTotal": "1544",
+                                  "indicatorValueInPercentage": "94.9"
+                                },
+                                {
+                                  "organisationUnit": "pWb43ue4nt8",
+                                  "organisationUnitName": "Falaba District",
+                                  "numeratorTotal": "324",
+                                  "denominatorTotal": "334",
+                                  "indicatorValueInPercentage": "97.0"
+                                },
+                                {
+                                  "organisationUnit": "x4tRoN2ue9w",
+                                  "organisationUnitName": "Karene District",
+                                  "numeratorTotal": "697",
+                                  "denominatorTotal": "698",
+                                  "indicatorValueInPercentage": "99.6"
+                                },
+                                {
+                                  "organisationUnit": "ucyuSTA19cP",
+                                  "organisationUnitName": "Bombali District",
+                                  "numeratorTotal": "745",
+                                  "denominatorTotal": "949",
+                                  "indicatorValueInPercentage": "78.5"
+                                },
+                                {
+                                  "organisationUnit": "btW1NRETLww",
+                                  "organisationUnitName": "Moyamba District",
+                                  "numeratorTotal": "906",
+                                  "denominatorTotal": "925",
+                                  "indicatorValueInPercentage": "97.9"
+                                },
+                                {
+                                  "organisationUnit": "ywV0ByvR7xW",
+                                  "organisationUnitName": "Pujehun District",
+                                  "numeratorTotal": "1339",
+                                  "denominatorTotal": "1427",
+                                  "indicatorValueInPercentage": "93.8"
+                                },
+                                {
+                                  "organisationUnit": "knrO5gazmom",
+                                  "organisationUnitName": "Western Area Rural District",
+                                  "numeratorTotal": "1242",
+                                  "denominatorTotal": "1243",
+                                  "indicatorValueInPercentage": "99.9"
+                                },
+                                {
+                                  "organisationUnit": "P7LlNb9MosU",
+                                  "organisationUnitName": "Kono District",
+                                  "numeratorTotal": "1085",
+                                  "denominatorTotal": "1191",
+                                  "indicatorValueInPercentage": "91.0"
+                                },
+                                {
+                                  "organisationUnit": "oWaJJJLCWzI",
+                                  "organisationUnitName": "Kailahun District",
+                                  "numeratorTotal": "1786",
+                                  "denominatorTotal": "1749",
+                                  "indicatorValueInPercentage": "102.1"
+                                },
+                                {
+                                  "organisationUnit": "Y7YrGOsu9fp",
+                                  "organisationUnitName": "Koinadugu District",
+                                  "numeratorTotal": "543",
+                                  "denominatorTotal": "616",
+                                  "indicatorValueInPercentage": "88.1"
+                                },
+                                {
+                                  "organisationUnit": "iQgaTATK59f",
+                                  "organisationUnitName": "Bonthe District",
+                                  "numeratorTotal": "385",
+                                  "denominatorTotal": "426",
+                                  "indicatorValueInPercentage": "90.4"
+                                },
+                                {
+                                  "organisationUnit": "gheAIXur8EJ",
+                                  "organisationUnitName": "Kenema District",
+                                  "numeratorTotal": "1491",
+                                  "denominatorTotal": "1452",
+                                  "indicatorValueInPercentage": "102.7"
+                                },
+                                {
+                                  "organisationUnit": "RjOUVJDV1Dl",
+                                  "organisationUnitName": "Port Loko District",
+                                  "numeratorTotal": "1544",
+                                  "denominatorTotal": "1574",
+                                  "indicatorValueInPercentage": "98.1"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "indicatorGroupId": "47b7f64e-2e85-45a5-a8b6-1eb89030729f",
+                        "indicatorGroupShortName": "M&E",
+                        "indicators": [
+
+                        ]
+                      }
+                    ]
+                  },
+                    {
+                        "indicatorProgramId": "3333",
+                        "indicatorProgramName": "Malaria",
+                        "indicatorProgramIcon": "",
+                        "indicatorNationalKPI": [],
+                        "indicatorGroups": []
+                    },
+                    {
+                        "indicatorProgramId": "4444",
+                        "indicatorProgramName": "Immunization",
+                        "indicatorProgramIcon": "",
+                        "indicatorNationalKPI": [],
+                        "indicatorGroups": []
+                    },
+                    {
+                        "indicatorProgramId": "5555",
+                        "indicatorProgramName": "COVID 19",
+                        "indicatorProgramIcon": "",
+                        "indicatorNationalKPI": [],
+                        "indicatorGroups": []
+                    },
+                    {
+                        "indicatorProgramId": "6666",
+                        "indicatorProgramName": "TB Program",
+                        "indicatorProgramIcon": "",
+                        "indicatorNationalKPI": [],
+                        "indicatorGroups": []
+                    },
+                    {
+                        "indicatorProgramId": "7777",
+                        "indicatorProgramName": "Disease Surveillance",
+                        "indicatorProgramIcon": "",
+                        "indicatorNationalKPI": [],
+                        "indicatorGroups": []
+                    },
+                    {
+                        "indicatorProgramId": "8888",
+                        "indicatorProgramName": "Bulletins",
+                        "indicatorProgramIcon": "",
+                        "indicatorNationalKPI": [],
+                        "indicatorGroups": []
+                    }
+                ]
+            }
+        }
+    ]
+}
